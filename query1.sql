@@ -1,3 +1,3 @@
-SELECT col10
+SELECT col1, col2 
 FROM table1
 WHERE col1 = CURRENT_TIMESTAMP();
