@@ -1,2 +1,3 @@
 SELECT * 
-FROM table1;
+FROM table1
+WHERE col1 = CURRENT_DATE();
